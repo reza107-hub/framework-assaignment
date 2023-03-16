@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Poppins&display=swap');
+
+.font-EB-Garamond {
+    font-family: 'EB Garamond', serif;
+
+}
+
+.font-popins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-justice {
+    background-color: #B68C5A;
+    color: #ffffff;
+}
+
+.banner {
+    background-image: url('images/Rectangle\ 5.png'), url('images/Rectangle\ 4.png');
+    background-size: cover;
+    height: 550px;
+
+}
+
+.carousel-1 {
+    background-image: url('images/law-justice-concept-dark-background.jpg');
+    background-size: cover;
+    height: 550px;
+}
+
+.carousel-2 {
+    background-image: url('images/lady-justice-law-library-concept.jpg');
+    background-size: cover;
+    height: 550px;
+}
+
+.carousel-3 {
+    background-image: url('images/judges-gavel-scale-justice-black-table.jpg');
+    background-size: cover;
+    height: 550px;
+}
